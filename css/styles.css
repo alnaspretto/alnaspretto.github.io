@@ -99,3 +99,21 @@ img.dibley {
   padding: 5px;
   background-color: #ddf6aa;
 }
+
+
+.card-body {
+    background-color:honeydew;
+    outline-color: brown;
+    outline-style: dotted;
+    outline-width: thick;
+}
+
+.table {
+    outline-style: solid;
+    outline-width: thin;
+    outline-color: rgb(0, 0, 0);
+}
+
+.thead {
+    background-color:rgb(107, 201, 236);
+}
